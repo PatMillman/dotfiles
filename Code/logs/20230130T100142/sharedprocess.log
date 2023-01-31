@@ -1,0 +1,5 @@
+2023-01-30 10:01:44.584 [info] Starting worker process with pid 269669 (type: fileWatcher, window: 1).
+2023-01-30 10:02:10.418 [info] Worker process with pid 269669 terminated normally (type: fileWatcher, window: 1).
+2023-01-30 10:02:11.467 [info] Starting worker process with pid 269974 (type: fileWatcher, window: 1).
+2023-01-30 10:02:22.167 [info] Worker process with pid 269974 terminated normally (type: fileWatcher, window: 1).
+2023-01-30 10:02:23.559 [info] Starting worker process with pid 270149 (type: fileWatcher, window: 1).

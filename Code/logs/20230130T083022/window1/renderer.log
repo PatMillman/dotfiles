@@ -1,0 +1,7 @@
+2023-01-30 08:30:23.551 [info] Electron sandbox mode is enabled!
+2023-01-30 08:30:23.620 [info] Initial editor state {"filesToOpenOrCreate":[{"fileUri":{"$mid":1,"path":"/usr/share/applications/code.desktop","scheme":"file"},"type":1,"exists":true,"options":{}}],"filesToDiff":[],"filesToMerge":[]}
+2023-01-30 08:30:26.903 [info] [perf] Render performance baseline is 37ms
+2023-01-30 08:31:15.412 [error] [text file model] handleSaveError(1) - exit - resulted in a save error: Error: Unable to write file '/usr/share/applications/code.desktop' (NoPermissions (FileSystemError): Error: EACCES: permission denied, open '/usr/share/applications/code.desktop') file:///usr/share/applications/code.desktop
+2023-01-30 08:31:27.778 [error] [text file model] handleSaveError(1) - exit - resulted in a save error: Error: User did not grant permission. file:///usr/share/applications/code.desktop
+2023-01-30 08:31:30.699 [error] [text file model] handleSaveError(1) - exit - resulted in a save error: Error: Unable to write file '/usr/share/applications/code.desktop' (NoPermissions (FileSystemError): Error: EACCES: permission denied, open '/usr/share/applications/code.desktop') file:///usr/share/applications/code.desktop
+2023-01-30 08:31:50.226 [error] [text file model] handleSaveError(1) - exit - resulted in a save error: Error: User did not grant permission. file:///usr/share/applications/code.desktop

@@ -1,0 +1,7 @@
+[Added Associations]
+application/x-wine-extension-ini=code.desktop;
+inode/directory=thunar.desktop;
+application/x-desktop=code.desktop;
+
+[Default Applications]
+x-scheme-handler/etcher=balena-etcher.desktop

@@ -1,0 +1,26 @@
+2023/01/31-07:45:52.076 103a3 Reusing MANIFEST /home/patmi/.config/discord/Local Storage/leveldb/MANIFEST-000001
+2023/01/31-07:45:52.076 103a3 Recovering log #5
+2023/01/31-07:45:52.078 103a3 Reusing old log /home/patmi/.config/discord/Local Storage/leveldb/000005.log 
+2023/01/31-07:48:27.019 103b9 Level-0 table #9: started
+2023/01/31-07:48:27.032 103b9 Level-0 table #9: 1384110 bytes OK
+2023/01/31-07:48:27.038 103b9 Delete type=0 #5
+2023/01/31-09:07:58.419 21334 Level-0 table #11: started
+2023/01/31-09:07:58.424 21334 Level-0 table #11: 28401 bytes OK
+2023/01/31-09:07:58.432 21334 Delete type=0 #8
+2023/01/31-09:07:58.432 21334 Compacting 4@0 + 0@1 files
+2023/01/31-09:07:58.452 21334 Generated table #12@0: 70 keys, 1413351 bytes
+2023/01/31-09:07:58.452 21334 Compacted 4@0 + 0@1 files => 1413351 bytes
+2023/01/31-09:07:58.460 21334 compacted to: files[ 0 1 0 0 0 0 0 ]
+2023/01/31-09:07:58.461 21334 Delete type=2 #6
+2023/01/31-09:07:58.461 21334 Delete type=2 #11
+2023/01/31-09:07:58.461 21334 Delete type=2 #3
+2023/01/31-09:07:58.461 21334 Delete type=2 #9
+2023/01/31-09:14:53.161 21334 Level-0 table #14: started
+2023/01/31-09:14:53.170 21334 Level-0 table #14: 40723 bytes OK
+2023/01/31-09:14:53.176 21334 Delete type=0 #10
+2023/01/31-09:16:53.160 2448e Level-0 table #16: started
+2023/01/31-09:16:53.164 2448e Level-0 table #16: 46261 bytes OK
+2023/01/31-09:16:53.169 2448e Delete type=0 #13
+2023/01/31-10:23:51.439 3417d Level-0 table #18: started
+2023/01/31-10:23:51.445 3417d Level-0 table #18: 45268 bytes OK
+2023/01/31-10:23:51.451 3417d Delete type=0 #15

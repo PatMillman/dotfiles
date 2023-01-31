@@ -1,0 +1,12 @@
+2023-01-30 08:38:25.553 [info] update#setState idle
+2023-01-30 08:38:26.693 [info] UtilityProcess<2>: Creating new...
+2023-01-30 08:38:26.703 [info] UtilityProcess<2>: received spawn event.
+2023-01-30 08:38:26.746 [info] UtilityProcess<1>: Creating new...
+2023-01-30 08:38:26.759 [info] UtilityProcess<1>: received spawn event.
+2023-01-30 08:38:55.553 [info] update#setState checking for updates
+2023-01-30 08:38:55.659 [info] update#setState idle
+2023-01-30 08:38:56.110 [info] UtilityProcess<2>: received exit event with code 0.
+2023-01-30 08:38:56.111 [info] Extension host with pid 130309 exited with code: 0, signal: .
+2023-01-30 08:46:19.199 [info] UtilityProcess<1>: Waiting for extension host with pid 130310 to exit.
+2023-01-30 08:46:19.208 [info] UtilityProcess<1>: received exit event with code 0.
+2023-01-30 08:46:19.208 [info] Extension host with pid 130310 exited with code: 0, signal: .

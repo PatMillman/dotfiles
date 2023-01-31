@@ -1,0 +1,8 @@
+2023/01/30-08:23:23.508 1763c Reusing MANIFEST /home/patmi/.config/discord/Local Storage/leveldb/MANIFEST-000001
+2023/01/30-08:23:23.510 1763c Recovering log #3
+2023/01/30-08:23:23.517 1763c Level-0 table #3: started
+2023/01/30-08:23:23.554 1763c Level-0 table #3: 1390679 bytes OK
+2023/01/30-08:23:23.562 1763c Delete type=0 #3
+2023/01/30-10:21:24.454 3b901 Level-0 table #6: started
+2023/01/30-10:21:24.460 3b901 Level-0 table #6: 31880 bytes OK
+2023/01/30-10:21:24.464 3b901 Delete type=0 #4
